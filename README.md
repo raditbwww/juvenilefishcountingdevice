@@ -18,3 +18,6 @@ Team Members:
 [Youtube Link](https://youtu.be/lIapoIvvQwo?si=x17H1uYqXJrfV1zV)
 
 ## Pictures of the Device:
+![device1](Pictures/front.png)
+![device2](Pictures/outlet.png)
+![device3](Pictures/side.png)
