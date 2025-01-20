@@ -12,8 +12,9 @@ Team Members:
 
 ## Video Demo:
 ### Counting System
-[Watch the video demo](https://youtube.com/shorts/lDPH_ZbXBBA?feature=share)
+[Youtube Link](https://youtube.com/shorts/lDPH_ZbXBBA?feature=share)
 
 ### Device Usage Demo
+[Youtube Link](https://youtu.be/lIapoIvvQwo?si=x17H1uYqXJrfV1zV)
 
 ## Pictures of the Device:
