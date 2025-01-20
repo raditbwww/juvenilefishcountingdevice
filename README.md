@@ -1,7 +1,7 @@
 # Automatic Juvenile Fish Counting Device
 Bandung Institute of Technology Electrical Engineering Undergraduate Degree Capstone Design Final Year Project: **Automatic Juvenile Fish Counting Device**
 
-The system uses deep learning computer vision technology. It combines YOLO Single-Stage Object Detection Algorithm with Kalman Filter-based Object Tracking Algorithm.
+The system uses deep learning computer vision technology. It combines YOLO Single-Stage Object Detection Algorithm with Kalman Filter-based Object Tracking Algorithm. It has been tested to count catfish and tilapia with size ranging from 5-12 cm and managed to get an average accuracy of **94.4%**.
 
 Team Members:
 1. Raditya Bagus Wardhana
