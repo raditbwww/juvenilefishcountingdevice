@@ -7,3 +7,12 @@ Team Members:
 1. Raditya Bagus Wardhana
 2. Raihan Fadhil Yanuarsyah
 3. M. Fathin Madani
+
+---
+
+## Video Demo:
+### Counting System
+
+### Device Usage Demo
+
+## Pictures of the Device:
