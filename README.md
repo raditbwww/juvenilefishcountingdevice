@@ -12,7 +12,7 @@ Team Members:
 
 ## Video Demo:
 ### Counting System
-<iframe width="560" height="315" src="https://youtube.com/shorts/lDPH_ZbXBBA?feature=share" frameborder="0" allowfullscreen></iframe>
+[Watch the video demo](https://youtube.com/shorts/lDPH_ZbXBBA?feature=share)
 
 ### Device Usage Demo
 
