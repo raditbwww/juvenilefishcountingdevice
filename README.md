@@ -21,4 +21,4 @@ Team Members:
 Please refer to /Pictures
 
 ## Poster:
-Please refer to /Poster
+![Alt text](/Poster/poster.png?raw=true "Poster")
